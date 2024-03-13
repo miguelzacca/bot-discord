@@ -1,0 +1,1 @@
+BOT = https://discord.com/oauth2/authorize?client_id=1216526347556622488&permissions=2048&scope=bot
